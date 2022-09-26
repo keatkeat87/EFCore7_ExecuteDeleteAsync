@@ -1,0 +1,2 @@
+﻿dotnet ef migrations add adjust13
+dotnet ef database update
